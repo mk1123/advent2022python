@@ -1,0 +1,5 @@
+{
+    "python.formatting.blackPath": "black",
+    "python.formatting.provider": "black",
+    "editor.bracketPairColorization.enabled": true
+}
